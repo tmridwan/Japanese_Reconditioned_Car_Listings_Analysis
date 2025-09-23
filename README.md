@@ -74,3 +74,7 @@ pip install -r requirements.txt
 4. Download the chromedriver from: https://developer.chrome.com/docs/chromedriver/downloads
 
 5. Check the Scraped data: https://github.com/tmridwan/Japanese-Reconditioned-Car-Listings-Analysis-/blob/main/car-import/gari_import.csv
+
+![Market Snapshot](https://github.com/user-attachments/assets/0489f2f9-012c-4b0b-bd51-5cebae733449)
+![price and values](https://github.com/user-attachments/assets/68e2649d-8d3c-4f1f-aed5-c9c4dd909ef1)
+![Advance analysis](https://github.com/user-attachments/assets/d6a4d63a-4a37-4e81-983e-00e65b93fd2d)
