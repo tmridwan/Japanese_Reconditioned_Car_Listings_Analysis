@@ -40,7 +40,7 @@ Tableau public view (Advanced Analysis): https://public.tableau.com/app/profile/
 1. Listings are dominated by a variety of brands, with Toyota, Honda, and Nissan leading the counts.  
 2. Toyota emerges as the most popular brand, followed by Honda, based on listing frequency.  
 3. Reconditioned cars from the years 2019-2021 dominate the current listings.  
-4. Hybrid and petrol-hybrid fuel types show a noticeable price premium compared to other fuel types.
+4. Hybrid and octane fuel types show a noticeable price premium compared to other fuel types.
   
 
 **Dashboard 2: Price and Value Trends: Japanese Reconditioned Cars (Sep 2025)**  
