@@ -26,11 +26,7 @@ The goal of this project is to gather information and insights on depreciation a
 
 **You can visit the public dashboards here:**
 
-Tableau public view (Market snapshot) : https://public.tableau.com/app/profile/taiob.md.ridwan/viz/Book1_17553251098180/MarketSnapshotJapaneseReconditionedCarsSep2025?
-
-Tableau public view (Price and Value Trends) : https://public.tableau.com/app/profile/taiob.md.ridwan/viz/Book1_17553251098180/PriceandValueTrends?
-
-Tableau public view (Advanced Analysis): https://public.tableau.com/app/profile/taiob.md.ridwan/viz/Book1_17553251098180/AdvancedAnalysisDepreciationandNicheTrendsSep2025?
+Tableau public view : https://public.tableau.com/app/profile/taiob.md.ridwan/viz/Book1_17553251098180/MarketSnapshotJapaneseReconditionedCarsSep2025?publish=yes
 
 
 
