@@ -1,5 +1,3 @@
-<img width="1291" height="545" alt="Book1 Tableau Public" src="https://github.com/user-attachments/assets/fefee6ba-b178-4b36-a46e-14d374506184" /># Japanese-Reconditioned-Car-Listings-Analysis-
-
 The goal of this project is to gather information and insights on depreciation and market trends of Japanese reconditioned cars based on data available as of September 2025. We utilized the scraped data to understand the following aspects and correlations using the provided dashboards.
 
 ** Market Snapshot**  
